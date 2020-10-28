@@ -49,7 +49,6 @@ The main objective is to use Python and SQLAlchemy to do basic climate analysis 
 
 ## Climate App 
 ---
-
 The main objective here was to design a Flask API based on the queries developed.
 
 ### Routes
