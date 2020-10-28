@@ -45,7 +45,6 @@ The main objective is to use Python and SQLAlchemy to do basic climate analysis 
 
     ![station-histogram](Images/station-histogram.png)
 
-- - -
 
 
 ## Climate App 
